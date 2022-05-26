@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Agcare/static/css/main.5b9c502d.css",
-    "main.js": "/Agcare/static/js/main.3720605b.js",
-    "static/js/787.26d8bf7d.chunk.js": "/Agcare/static/js/787.26d8bf7d.chunk.js",
-    "index.html": "/Agcare/index.html",
-    "main.5b9c502d.css.map": "/Agcare/static/css/main.5b9c502d.css.map",
-    "main.3720605b.js.map": "/Agcare/static/js/main.3720605b.js.map",
-    "787.26d8bf7d.chunk.js.map": "/Agcare/static/js/787.26d8bf7d.chunk.js.map"
+    "main.css": "/AgroCare/static/css/main.5b9c502d.css",
+    "main.js": "/AgroCare/static/js/main.c8362210.js",
+    "static/js/787.26d8bf7d.chunk.js": "/AgroCare/static/js/787.26d8bf7d.chunk.js",
+    "index.html": "/AgroCare/index.html",
+    "main.5b9c502d.css.map": "/AgroCare/static/css/main.5b9c502d.css.map",
+    "main.c8362210.js.map": "/AgroCare/static/js/main.c8362210.js.map",
+    "787.26d8bf7d.chunk.js.map": "/AgroCare/static/js/787.26d8bf7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b9c502d.css",
-    "static/js/main.3720605b.js"
+    "static/js/main.c8362210.js"
   ]
 }
