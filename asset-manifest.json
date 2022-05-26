@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Agcare/static/css/main.5b9c502d.css",
+    "main.js": "/Agcare/static/js/main.3720605b.js",
+    "static/js/787.26d8bf7d.chunk.js": "/Agcare/static/js/787.26d8bf7d.chunk.js",
+    "index.html": "/Agcare/index.html",
+    "main.5b9c502d.css.map": "/Agcare/static/css/main.5b9c502d.css.map",
+    "main.3720605b.js.map": "/Agcare/static/js/main.3720605b.js.map",
+    "787.26d8bf7d.chunk.js.map": "/Agcare/static/js/787.26d8bf7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9c502d.css",
+    "static/js/main.3720605b.js"
+  ]
+}
